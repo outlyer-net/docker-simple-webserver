@@ -31,3 +31,8 @@ With docker:
 ```shell
 docker build -t outlyernet/simple-webserver .
 ```
+
+## References
+
+- [`outlyernet/simple-webserver` image at Docker Hub](https://hub.docker.com/r/outlyernet/simple-webserver)
+- [`outlyer-net/docker-simple-webserver` project at GitHub](https://github.com/outlyer-net/docker-simple-webserver)

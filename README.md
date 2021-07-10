@@ -2,7 +2,7 @@
 
 A docker image of a simple (static) web server using Python's builtin HTTP server.
 
-**NOTE**: Only amd64 are prebuilt, for other architectures you'll have to build first
+**NOTE**: Only the amd64 image is prebuilt, for other architectures you'll have to build first
 
 ## Run
 
